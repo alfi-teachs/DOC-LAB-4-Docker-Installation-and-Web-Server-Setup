@@ -1,4 +1,4 @@
-# DOC-LAB-4-Docker-Installation-and-Web-Server-Setup
+# DOC-LAB-1-Docker-Installation-and-Web-Server-Setup
 
 # Step 1: Update system
 ```bash
